@@ -1,0 +1,172 @@
+[{
+  "site": "coursera",
+  "name": "introducción a data science: programación estadística con r",
+  "university": "universidad nacional autónoma de méxico",
+  "specialization": null,
+  "order": null,
+  "link": "https://coursera.org/share/44553866e3c7052fbed125b2093caab2",
+  "expertise": ["graphics", "r", "rstudio", "exploratory data analysis"]
+},
+{
+	"site": "coursera",
+	"name": "introducción al html5",
+	"university": "university of michigan",
+	"specialization": "web design for everybody: basics of web development & coding",
+	"order": 1,
+	"link": "https://coursera.org/share/a07cb03b95bb78b672178de8219dcfb5",
+	"expertise": ["web desing", "html", "web page"]
+},
+{
+	"site": "coursera",
+	"name": "programming for everybody (getting started with python)",
+	"specialization": "python for everybody",
+	"order": 1,
+	"university": "university of michigan",
+	"link": "https://coursera.org/share/ba83c1f356df32d7b476dbee0be60b1f",
+	"expertise": ["python syntax and semantics", "basic programming language", "computer programming", "python programming"]
+},
+{
+	"site": "coursera",
+	"name": "python data structures",
+	"specialization": "python for everybody",
+	"order": 2,
+	"university": "university of michigan",
+	"link": "https://coursera.org/share/44c1f463807860cdd62e0b4145f3b196",
+	"expertise": ["python syntax and semantics", "data structure", "tuple", "python programming"]
+},
+{
+	"site": "coursera",
+	"name": "pluralidades em português brasileiro",
+	"specialization": null,
+	"order": null,
+	"university": "universidade estadual de campinas",
+	"link": "https://coursera.org/share/315ed4e9a432a2bacf43f0c4dbddcc86",
+	"expertise": ["advanced portuguese"]
+},
+{
+	"site": "coursera",
+	"name": "crea tu artículo científico con latex",
+	"specialization": null,
+	"order": null,
+	"university": "coursera project network",
+	"link": "https://coursera.org/share/78c1d42272dad8eda34ad3ed809eeaa6",
+	"expertise": ["latex", "articulos científicos", "edición de formato"]
+},
+{
+	"site": "coursera",
+	"name": "fundamentos de la escritura",
+	"specialization": null,
+	"order": null,
+	"university": "tecnológico de monterrey",
+	"link": "https://coursera.org/share/971f82b2199de960a0697b9fcdc98673",
+	"expertise": ["normas ortográficas", "redactar de forma correcta", "planificar textos", "utilizar estrategias de cohesión y adecuación"]
+},
+{
+	"site": "coursera",
+	"name": "introduction to probability and data with r",
+	"specialization": "data analysis with r",
+	"order": 1,
+	"university": "duke university",
+	"link": "https://coursera.org/share/e2493eceb9c9aba9466b0122147febd7",
+	"expertise": ["statistics", "r", "rstudio", "exploratory data analysis"]
+},
+{
+	"site": "coursera",
+	"name": "introduction to bash shell scripting",
+	"specialization": null,
+	"order": null,
+	"university": "coursera project network",
+	"link": "https://coursera.org/share/2c9e0c03c9c0b4b3a2703240c57648b1",
+	"expertise": ["scripting", "linux", "bash", "creating aliases", "creating cron jobs", "manipulating files and directories", "writing bash shell script"]
+},
+{
+	"site": "coursera",
+	"name": "using python to access web data",
+	"specialization": "python for everybody",
+	"order": 3,
+	"university": "university of michigan",
+	"link": "https://coursera.org/share/a815543e620d225335c24ae1c635b777",
+	"expertise": ["regex", "json", "xml", "python programming", "web scraping"]
+},
+{
+	"site": "coursera",
+	"name": "introduction to data science in python",
+	"specialization": "applied data science with python",
+	"order": 1,
+	"university": "university of michigan",
+	"link": "https://coursera.org/share/fea1d9e03695e6a9e90effceafdc7521",
+	"expertise": ["python programming", "numpy", "pandas", "data cleaning"]
+},
+{
+	"site": "coursera",
+	"name": "scripting with python and sql for data engineering",
+	"specialization": "python, bash and sql essentials for data engineering",
+	"order": 3,
+	"university": "duke university",
+	"link": "https://coursera.org/share/0a7c8eef12772f3dacb1ea2469e17d91",
+	"expertise": ["database (bdms)", "python programming", "web scraping", "mysql", "sql"]
+},
+{
+	"site": "coursera",
+	"name": "capstone: retrieving, processing, and visualizing data with python",
+	"specialization": "Python for Everybody",
+	"order": 5,
+	"university": "university of michigan",
+	"link": "https://coursera.org/share/5d4c37cb948afb167fe9fd17921f0ff3",
+	"expertise": ["data analysis", "python programming", "database (bdms)", "data visualization (dataviz)"]
+},
+{
+	"site": "coursera",
+	"name": "python and pandas for data engineering",
+	"specialization": "python, bash and sql essentials for data engineering",
+	"order": 1,
+	"university": "duke university",
+	"link": "https://coursera.org/share/2bd9480c456422404239d08a06a49d89",
+	"expertise": ["vim", "python programming", "pandas", "data structure"]
+},
+{
+	"site": "coursera",
+	"name": "web application technologies and django",
+	"specialization": "django for everybody",
+	"order": 1,
+	"university": "university of michigan",
+	"link": "https://coursera.org/share/45fce04af68c4146b757eb2c0dac77b1",
+	"expertise": ["css", "html", "http", "sql","django"]
+},
+{
+	"site": "coursera",
+	"name": "inferential statistics",
+	"specialization": "data analysis with r",
+	"order": 2,
+	"university": "duke university",
+	"link": "https://coursera.org/share/717c098745987c1dd4ea879206dbb904",
+	"expertise": ["stadistical inference", "statistical hypothesis testing", "r"]
+},
+{
+	"site": "coursera",
+	"name": "using databases with python",
+	"specialization": "Python for Everybody",
+	"order": 4,
+	"university": "university of michigan",
+	"link": "https://coursera.org/share/e9e742213f079bca6290547ab53fe798",
+	"expertise": ["python programming", "database (bdms)", "sqlite", "sql"]
+},
+{
+	"site": "coursera",
+	"name": "linux and bash for data engineering",
+	"specialization": "python, bash and sql essentials for data engineering",
+	"order": 2,
+	"university": "duke university",
+	"link": "https://coursera.org/share/b904c72cc60884ae56e89c5a6dca70d7",
+	"expertise": ["bash", "database (bdms)", "data management", "linux"]
+},
+{
+	"site": "coursera",
+	"name": "enhance your writing with adverb clauses",
+	"specialization": null,
+	"order": null,
+	"university": "university of california, irvine",
+	"link": "https://coursera.org/share/069fe34d2bf1c6e6f2b00b14b9a39355",
+	"expertise": ["english"]
+}
+]

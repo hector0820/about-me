@@ -1,0 +1,33 @@
+[{
+  "acronyms": "UAM",
+  "university": "Universidad Autónoma Metropolitana",
+  "career": "Economy",
+  "finish": true,
+  "where": "CDMX",
+  "start": "01/05/2015",
+  "end": "01/06/2022",
+  "skills": [ "Ability to analyze and interpret economic data, trends, and indicators to make informed decisions and recommendations.",
+              "Knowledge of aggregate economic factors such as inflation, unemployment, fiscal policy, monetary policy, and economic growth.",
+              "Proficiency in using statistical techniques and software to analyze economic data and build econometric models.",
+              "Skill in collecting, organizing, and analyzing data using tools like Excel or statistical programming languages like R or Python.",
+              "Knowledge of forecasting techniques to predict economic trends, market conditions, and business outcomes.",
+              "Aptitude for identifying economic problems, formulating strategies, and implementing solutions to address challenges faced by individuals, businesses, or policymakers.",
+              "Ability to prioritize tasks, meet deadlines, and manage multiple projects simultaneously.",
+              "Skill in working effectively as part of a team, coordinating efforts, and contributing to collective goals."]
+  },
+{
+  "acronyms": "UNACH",
+  "university": "Universidad Autónoma de Chiapas",
+  "career": "Business Administration",
+  "finish": false,
+  "where": "Chiapas",
+  "start": "2012/08/01",
+  "end": "01/08/2014",
+  "skills": [
+    "Effective written and verbal communication skills to convey information, ideas, and proposals clearly and professionally.",
+    "Understanding of financial principles, budgeting, financial analysis, and financial statement interpretation to make informed business decisions.",
+    "Ability to develop strategic plans, set goals, and implement initiatives that align with organizational objectives.",
+    "Skill in leading teams, managing projects, fostering collaboration, and motivating others to achieve common goals.",
+    "Aptitude for analyzing complex problems, evaluating alternatives, and making sound decisions based on critical thinking and problem-solving techniques."]
+  }
+]
