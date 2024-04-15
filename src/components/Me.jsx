@@ -10,9 +10,10 @@ function Me(props) {
             and technology to drive informed decision-making.
             </p>
           </div>
-
             <div className="md:col-start-4 md:col-span-2 max-md:order-1">
-                <img className="w-[100%]" src={ props.img} alt="" />
+              <div className="h-[95%]">
+                <img src={ props.img } alt="" />
+              </div>
             </div>
         </div>
     );

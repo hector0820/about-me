@@ -4,13 +4,15 @@ import Education from './components/Education';
 import Me from './components/Me';
 import NavBar from './components/Nav';
 import Skills from './components/Skills';
+import images from './images/me.jpeg'
+
 
 function App() {
   return (
     <div className="App">
       <NavBar />
       <Me 
-        img="https://qph.cf2.quoracdn.net/main-qimg-0dfa38ed516036c3c0dc119e5e9ecac4-lq"/>
+        img={images}/>
       <Education />
       <Skills />
       <Contact />
